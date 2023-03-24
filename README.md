@@ -66,6 +66,7 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 - [Web3labs Blog](https://blog.web3labs.com/) by [web3labs](https://web3labs.com)
 - [Power Ecosystem Blog](https://thepower.io/blog) by [Power Ecosystem](https://thepower.io)
 - [Web3 University Blog](https://www.web3.university/find) by [Web3 University](https://www.web3.university)
+- [The Web3 Labs Blog](https://blog.web3labs.com/) by [Web3 Labs](https://www.web3.university)
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
